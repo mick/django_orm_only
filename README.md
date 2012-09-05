@@ -1,4 +1,4 @@
-==Just using the Django ORM
+## Just using the Django ORM
 
 I really like the django orm, but I dont always want to use all of django. Here is a quick setup that imports just the needed parts of Django to use the ORM.
 
